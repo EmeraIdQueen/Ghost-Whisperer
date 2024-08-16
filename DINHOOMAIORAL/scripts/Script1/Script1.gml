@@ -1,0 +1,3 @@
+globalvar status;
+status = false;
+
