@@ -1,3 +1,0 @@
-globalvar status;
-status = false;
-

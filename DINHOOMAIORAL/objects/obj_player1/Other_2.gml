@@ -1,1 +1,0 @@
-obj_player1.fantasmajunto = true; 
