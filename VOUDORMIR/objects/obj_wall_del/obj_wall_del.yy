@@ -13,7 +13,7 @@
     "path":"folders/PLAYER 2.yy",
   },
   "parentObjectId":null,
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -29,11 +29,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
     "name":"spr_wall_del",
     "path":"sprites/spr_wall_del/spr_wall_del.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
